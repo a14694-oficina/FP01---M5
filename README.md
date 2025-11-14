@@ -1,4 +1,4 @@
-# 2I-M5-14694-FP01
+Ficha Prática 1: Processamento de Formulário com PHP
 
 Este repositório contém um projeto simples que demonstra a submissão de dados de um formulário HTML para um script PHP, onde os dados são processados e é apresentado um resultado com base em lógica condicional.
 
