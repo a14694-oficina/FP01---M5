@@ -39,8 +39,6 @@ O projeto está organizado na seguinte estrutura de diretórios:
 Para executar este projeto, é necessário um ambiente de servidor web que suporte PHP. As opções mais comuns incluem:
 
 *   **XAMPP**
-*   **WAMP**
-*   **MAMP**
 *   Um servidor web (como Apache ou Nginx) com o módulo PHP instalado.
 
 ## Como Executar
