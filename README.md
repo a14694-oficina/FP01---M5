@@ -22,13 +22,6 @@ O projeto realiza as seguintes operações:
 
 O projeto está organizado na seguinte estrutura de diretórios:
 
-```
-.
-└── fp01/
-    ├── form.html
-    └── resultado.php
-```
-
 | Ficheiro | Descrição |
 | :--- | :--- |
 | `fp01/form.html` | Contém o formulário HTML para a entrada de dados. |
