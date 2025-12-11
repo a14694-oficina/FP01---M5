@@ -6,14 +6,14 @@ Este repositório contém um projeto simples que demonstra a submissão de dados
 
 O projeto realiza as seguintes operações:
 
-1.  **Recolha de Dados:** Um formulário HTML (`form.html`) recolhe o nome, idade e uma palavra-passe do utilizador.
-2.  **Processamento de Dados:** O script PHP (`resultado.php`) recebe os dados submetidos via método POST.
+1.  **Recolha de Dados:** Um formulário HTML (`form.html`) recolhe o nome, idade e a palavra-passe do utilizador.
+2.  **Processamento de Dados:** O script PHP (`resultado.php`) recebe os dados submetidos pelo método POST.
 3.  **Saudação Personalizada:** Apresenta uma saudação ao utilizador com o nome fornecido.
-4.  **Classificação Etária:** Classifica o utilizador em uma das seguintes categorias com base na idade:
+4.  **Classificação Etária:** Classifica o utilizador numa das seguintes categorias com base na idade:
     *   Criança (Idade `< 12`)
     *   Adolescente (Idade `12` a `17`)
     *   Adulto (Idade `> 17`)
-5.  **Análise de Força da Palavra-Passe:** Avalia a força da palavra-passe com base no seu comprimento:
+5.  **Análise de Força da Palavra-Passe:** Avalia a palavra-passe com base no seu comprimento:
     *   Fraca (Comprimento `< 5`)
     *   Média (Comprimento `5` a `8`)
     *   Forte (Comprimento `> 8`)
